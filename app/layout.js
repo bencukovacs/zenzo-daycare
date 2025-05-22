@@ -1,4 +1,5 @@
 import './globals.css'
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: 'Zenzo Kutyanapközi - Prémium Kutyagondozás',
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
       <body className="font-body">
         <Header />
         {children}
+        <Analytics/>
         <Footer />
       </body>
     </html>
