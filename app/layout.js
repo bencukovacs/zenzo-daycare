@@ -47,40 +47,11 @@ function Header() {
 function Footer() {
   return (
     <footer className="bg-amber-900 text-amber-50 py-12">
-      <div className="max-w-6xl mx-auto px-4">
-        <div className="grid md:grid-cols-3 gap-8 mb-8">
-          <div>
-            <div className="flex items-center space-x-3 mb-4">
-              <img 
-                src="/images/logo/zenzo-logo.png" 
-                alt="Zenzo Logo"
-                className="w-10 h-10 object-contain"
-              />
-              <h3 className="text-xl font-display font-bold">Zenzo Kutyanapközi</h3>
-            </div>
-            <p className="text-amber-100">
-              Természetes környezetben, szeretettel várjuk négylábú barátaikat.
-            </p>
-          </div>
-          <div>
-            <h4 className="text-lg font-semibold mb-4">Elérhetőség</h4>
-            <p className="text-amber-100 mb-2">📞 +36 (30) 123-4567</p>
-            <p className="text-amber-100 mb-2">📧 info@zenzo.hu</p>
-            <p className="text-amber-100">📍 Hegyi út 123, Budapest</p>
-          </div>
-          <div>
-            <h4 className="text-lg font-semibold mb-4">Nyitvatartás</h4>
-            <p className="text-amber-100 mb-2">Hétfő - Péntek: 7:00 - 19:00</p>
-            <p className="text-amber-100 mb-2">Szombat: Zárva</p>
-            <p className="text-amber-100">Vasárnap: Zárva</p>
-          </div>
-        </div>
-        <div className="border-t border-amber-800 pt-8 text-center">
+        <div className="border-amber-500 text-center">
           <p className="text-amber-200">
             &copy; 2025 Zenzo Kutyanapközi. Minden jog fenntartva.
           </p>
         </div>
-      </div>
     </footer>
   )
 }
