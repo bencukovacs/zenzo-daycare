@@ -24,7 +24,7 @@ export default function Home() {
             <div className="text-center p-6 border border-gray-200 rounded-lg">
               <h3 className="text-xl font-semibold mb-4">Full Day Care</h3>
               <p className="text-gray-600">
-                Professional supervision and playtime for your dog while you're at work
+                Professional supervision and playtime for your dog while you&apos;re at work
               </p>
             </div>
             <div className="text-center p-6 border border-gray-200 rounded-lg">
