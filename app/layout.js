@@ -65,13 +65,13 @@ function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Elérhetőség</h4>
             <p className="text-amber-100 mb-2">📞 +36 (30) 123-4567</p>
-            <p className="text-amber-100 mb-2">📧 info@zenzo-kutyanapoozi.hu</p>
+            <p className="text-amber-100 mb-2">📧 info@zenzo.hu</p>
             <p className="text-amber-100">📍 Hegyi út 123, Budapest</p>
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Nyitvatartás</h4>
             <p className="text-amber-100 mb-2">Hétfő - Péntek: 7:00 - 19:00</p>
-            <p className="text-amber-100 mb-2">Szombat: 8:00 - 16:00</p>
+            <p className="text-amber-100 mb-2">Szombat: Zárva</p>
             <p className="text-amber-100">Vasárnap: Zárva</p>
           </div>
         </div>

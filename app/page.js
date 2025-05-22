@@ -92,7 +92,7 @@ export default function Home() {
               <div>
                 <h3 className="text-xl font-semibold text-amber-900 mb-4">Elérhetőség</h3>
                 <p className="text-amber-800 mb-2">📞 +36 (30) 123-4567</p>
-                <p className="text-amber-800 mb-2">📧 info@zenzo-dogcare.hu</p>
+                <p className="text-amber-800 mb-2">📧 info@zenzo.hu</p>
                 <p className="text-amber-800">📍 Hegyi út 123, Budapest</p>
               </div>
               <div>
